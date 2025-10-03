@@ -1,3 +1,1 @@
-# verbose-robot
-
 Hello, GitHub!
